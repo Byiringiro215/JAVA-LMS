@@ -1,0 +1,6 @@
+Title,Author,ISBN,PublishDate,Available,BorrowCount
+"Harry Potter","J.K. Rowling","978-0439708180","1998-09-01",true,0
+"Clean Code","Robert C. Martin","978-0132350884","2008-08-01",true,0
+"Effective Java","Joshua Bloch","978-0134685991","2017-12-27",true,0
+"Design Patterns","Gang of Four","978-0201633610","1994-10-31",true,0
+"The Pragmatic Programmer","Andrew Hunt","978-0135957059","2019-09-13",true,0
